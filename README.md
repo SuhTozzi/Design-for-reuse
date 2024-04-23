@@ -26,4 +26,4 @@ This python file consists of supplementary codes for the other codes (e.g., reor
 Visualization is also located in this file.
 
 ## Contact Info
-Author: Seungah Suh (sasuh@utexas.edu)
+Seungah Suh (sasuh@utexas.edu)
