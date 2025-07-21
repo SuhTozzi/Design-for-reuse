@@ -1,8 +1,8 @@
 ## General Description
 The code is developed to implement the propsoed framework for algorithm-based design optimization for reuse.
 The code generates the optimal designs for reclaimed building materials using improved A* algorithm, heuristic algorithm, and genetic algorithm for pathfinding, stock assignment, and overall optimization structure, respectively.
-It is part of a work for the journal article titled "Algorithm-based design optimization for reuse: stock assignment and path generation for reclaimed building materials", currently preparing for publication (4/23/2024).
-More details can be found in the paper.
+It is part of a work for the journal article titled "Algorithm-based design optimization for reuse: stock assignment and path generation for reclaimed building materials", published in the Automation in Construction.
+More details can be found in the paper: https://doi.org/10.1016/j.autcon.2025.106284
 
 ## Code Overview
 ### user_main.ipynb
